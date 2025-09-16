@@ -79,7 +79,7 @@ The server will start on `http://localhost:5000`
 ### Base URL
 
 - **Local**: `http://localhost:5000`
-- **Live**: `https://school-payment-system-production.up.railway.app`
+- **Live**: `https://school-payment-backend-production.up.railway.app`
 
 ### Authentication
 
@@ -346,7 +346,7 @@ If you have any questions or issues:
 
 ## 🔗 Live Demo
 
-- **API Base URL**: <https://school-payment-system-production.up.railway.app>
+- **API Base URL**: <https://school-payment-backend-production.up.railway.app>
 - **GitHub Repository**: <https://github.com/aadyl-extc/school-payment-system>
 
 ## 📄 License
