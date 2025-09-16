@@ -14,7 +14,8 @@ const corsOptions = {
   origin: [
     "http://localhost:5000",   // Local dev server
     "http://localhost:5173",   // Vite dev server
-    " https://school-payment-backend-production.up.railway.app" // Railway deployment
+    "https://school-payment-backend-production.up.railway.app" ,
+    "https://school-payment-dashboard-five.vercel.app"
   ],
   methods: ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
   allowedHeaders: [
